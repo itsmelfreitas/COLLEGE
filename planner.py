@@ -1,4 +1,4 @@
-# Agenda de pagamento
+# Payment Planner
 
 events = {}
 
